@@ -3,8 +3,6 @@ CarmoneyCS370Hwk7
 
 SUNYIT CS370 Homework 7 Assignment - Option 3
 
-Cleaned up the comments. Yay!
-
 This project was created and built using Google's ADT.
 
 Be warned.  When you check this project out and import it into eclipse,
