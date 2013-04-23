@@ -9,7 +9,7 @@ Be warned.  When you check this project out and import it into eclipse,
 eclipse does this cleaver little thing where it wipes the AndroidManifest.xml
 file clean - as well as a few others.
 
-Now, on my system I simply copied the contents of AndroidManifest.xml into the (now)
+Now, on my system I 'quit' eclipse and simply copied the contents of AndroidManifest.xml into the (now)
 empty AndroidManifest.xml file, saved it, reopened eclipse and that seemed to make it happy.
 
 YMMV.
